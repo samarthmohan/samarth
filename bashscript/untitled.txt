@@ -1,9 +1,0 @@
-def func(length,bredth):
-    area=length*bredth
-    return area
-
-length=input('Enter Length: ')
-bredth=input('Enter Bredth: ')
-
-print func(length,bredth)
-
